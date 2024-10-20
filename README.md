@@ -14,8 +14,6 @@ WeatherPy is a Python module that fetches current weather data and forecasts fro
 
 ## Usage
 
-using a readme.md make this into one
-
 from weatherpy.weather_retriever import WeatherRetriever
 
 - Replace 'YOUR_API_KEY' with your actual OpenWeatherMap API key
